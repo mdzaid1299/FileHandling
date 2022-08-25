@@ -1,0 +1,14 @@
+Java Tutorial - Introduction
+Java is one of the most popular and important programming language in the world. Due to its distinct features, it is the most widely used language in every corner of the world and human life. From software and web applications to robotics, Java has become the most wanted language in today’s times.
+
+What make Java distinguishable ?
+There are many features of Java which makes it so different from other programming languages. As a result, it has become a must in software and hardware industries.
+
+Let's have a look at some of those features.
+
+Simple - It is designed to be easy to learn.
+Object-oriented - In Java, everything is based around Object which has some data and behaviour. Java can be easily extended as it is based on Object Model.
+Platform independent - This means that the same program works on any platform (operating system) without needing any modification.
+Robust - Robust means strong. Java is a robust management as it has a feature of automatic garbage collection and memory management.
+Portable - Programs written in Java are portable i.e., programs written for one type of computer or operating system can be run on another type of computer or operating system.
+High-performance - Java enables high performance with the use of just-in-time compilers.

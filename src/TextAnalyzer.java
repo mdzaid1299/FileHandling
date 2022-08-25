@@ -5,7 +5,7 @@ public class TextAnalyzer {
     public static void main(String[] args) {
         TextAnalyzer textAnalyzer = new TextAnalyzer();
         //String fileData = textAnalyzer.readFile("C:\\Users\\Vaibhav.Diwan\\Desktop\\poem.txt");
-        String fileData = textAnalyzer.readFile("resource/poem.txt");
+        String fileData = textAnalyzer.readFile("res/file.txt");
         System.out.println(fileData);
         String fileName = "resource/output.txt";
         Scanner scanner = new Scanner(System.in);
